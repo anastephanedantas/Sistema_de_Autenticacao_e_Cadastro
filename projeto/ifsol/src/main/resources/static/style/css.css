@@ -1,0 +1,60 @@
+.box{
+	border-radius: 7px;
+	padding: 30px;
+	margin-top: 20px;
+	margin: 195px;
+	border: 2px solid green;
+	width: 750px;
+	font-weight: bold;
+	background-color: white;
+	opacity: 0.8;
+
+}
+
+nav  {
+	background-color: #1ee854;
+	font-weight: bold;
+	
+}
+
+.formProdutos {
+	box-shadow: 0px 0px 2px grey;
+	padding-top: 25px;
+	padding-left: 35px;
+	padding-right: 20px;
+	padding-bottom: 55px;
+	margin-top: 60px;
+	font-size: 15pt;
+	font-family: Tahoma;
+	background-color: white;
+	
+}
+
+
+.login {
+	border:2px solid green;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 15px;
+	padding-bottom: 35px;
+	margin-top: 60px;
+	padding: 100px;
+	width: 60%;
+	border-radius: 7px;
+}
+
+button {
+	margin-top: 25px;
+}
+body{
+	background-image: url("img.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.listaProdutos{
+	background-color: white;
+	margin-top: 10px;
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ifsol
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ana Stephane
+Implementation-Vendor-Id: projeto
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ifsol
+Created-By: Maven Integration for Eclipse
+
